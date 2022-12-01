@@ -14,7 +14,7 @@ Initially OD-Buddy was to be made by a duo, but due to some some unforseen issue
 You can know about OD-Buddy (or ODB for short) [**here**](https://www.slideshare.net/secret/nyU0z6ihijxG9C)
 
 ### Before Starting,
-This is a static website, everything is prefilled no need to fill up anything, you can just continue as it is. With backend the website would be woorking but for the time being it is a static site. 
+This is a static website, everything is prefilled no need to fill up anything, you can just continue as it is. With backend the website would be woorking but for the time being it is a static site. || File ODB contains all the info including the Adobe XD file
 
 
 *Thank you for checking OD-Buddy*
