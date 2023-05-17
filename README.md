@@ -11,7 +11,7 @@ Built Using:
 Initially OD-Buddy was to be made by a duo, but due to some some unforseen issues, a member counldn't join the team and so, the entire project is a static site made strictly using only CSS and HTML.
 
 ### What is OD-Buddy?
-You can know about OD-Buddy (or ODB for short) [**here**](https://www.slideshare.net/secret/nyU0z6ihijxG9C)
+You can know about OD-Buddy (or ODB for short) [**here**](https://www.slideshare.net/secret/nyU0z6ihijxG9C) .
 
 ### Before Starting,
 This is a static website, everything is prefilled no need to fill up anything, you can just continue as it is. With backend the website would be woorking but for the time being it is a static site. || File ODB contains all the info including the Adobe XD file
